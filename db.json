@@ -1,0 +1,671 @@
+{
+    "Towars": [
+        {
+            "id": 1,
+            "name": "Товар 1",
+            "price": 1100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 1,
+            "sale": "SALE"
+          },
+          {
+            "id": 2,
+            "name": "Товар 2",
+            "price": 2300,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 2,
+            "sale": "SALE"
+          },
+          {
+            "id": 3,
+            "name": "Товар 3",
+            "price": 5300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 4,
+            "name": "Товар 1",
+            "price": 100,
+            "filter": 2,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 5,
+            "name": "Товар 2",
+            "price": 2200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 3,
+            "sale": "SALE"
+          },
+          {
+            "id": 6,
+            "name": "Товар 3",
+            "price": 3600,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 5,
+            "sale": "SALE"
+          },
+          {
+            "id": 7,
+            "name": "Товар 1",
+            "price": 1900,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 11,
+            "sale": "SALE"
+          },
+          {
+            "id": 8,
+            "name": "Товар 2",
+            "price": 2100,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 6,
+            "sale": "SALE"
+          },
+          {
+            "id": 9,
+            "name": "Товар 3",
+            "price": 3400,
+            "filter": 1,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 10,
+            "name": "Товар 1",
+            "price": 6100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 7,
+            "sale": "SALE"
+          },
+          {
+            "id": 11,
+            "name": "Товар 2",
+            "price": 200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 8,
+            "sale": "SALE"
+          },
+          {
+            "id": 12,
+            "name": "Товар 3",
+            "price": 3300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 9,
+            "sale": "SALE"
+          },
+          {
+            "id": 13,
+            "name": "Товар 1",
+            "price": 1100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 10,
+            "sale": "SALE"
+          },
+          {
+            "id": 14,
+            "name": "Товар 2",
+            "price": 2060,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 11,
+            "sale": "SALE"
+          },
+          {
+            "id": 15,
+            "name": "Товар 3",
+            "price": 4300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 16,
+            "name": "Товар 1",
+            "price": 7100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 12,
+            "sale": "SALE"
+          },
+          {
+            "id": 17,
+            "name": "Товар 2",
+            "price": 2200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 13,
+            "sale": "SALE"
+          },
+          {
+            "id": 18,
+            "name": "Товар 3",
+            "price": 6300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 11,
+            "sale": "SALE"
+          },
+          {
+            "id": 19,
+            "name": "Товар 2",
+            "price": 2200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 20,
+            "name": "Товар 3",
+            "price": 300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 10,
+            "sale": "SALE"
+          },
+          {
+            "id": 21,
+            "name": "Товар 1",
+            "price": 100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 22,
+            "name": "Товар 2",
+            "price": 2100,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 5,
+            "sale": "SALE"
+          },
+          {
+            "id": 23,
+            "name": "Товар 3",
+            "price": 3500,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 4,
+            "sale": "SALE"
+          },
+          {
+            "id": 24,
+            "name": "Товар 1",
+            "price": 1000,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 3,
+            "sale": "SALE"
+          },
+          {
+            "id": 25,
+            "name": "Товар 2",
+            "price": 2200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 2,
+            "sale": "SALE"
+          },
+          {
+            "id": 26,
+            "name": "Товар 3",
+            "price": 3000,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 1,
+            "sale": "SALE"
+          },
+          {
+            "id": 27,
+            "name": "Товар 1",
+            "price": 1900,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 28,
+            "name": "Товар 2",
+            "price": 2000,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 6,
+            "sale": "SALE"
+          },
+          {
+            "id": 29,
+            "name": "Товар 3",
+            "price": 3300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 7,
+            "sale": "SALE"
+          },
+          {
+            "id": 30,
+            "name": "Товар 1",
+            "price": 9100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 8,
+            "sale": "SALE"
+          },
+          {
+            "id": 31,
+            "name": "Товар 2",
+            "price": 2300,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 9,
+            "sale": "SALE"
+          },
+          {
+            "id": 32,
+            "name": "Товар 3",
+            "price": 7300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 10,
+            "sale": "SALE"
+          },
+          {
+            "id": 33,
+            "name": "Товар 1",
+            "price": 4100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "filter": 11,
+            "sale": "SALE"
+          },
+          {
+            "id": 34,
+            "name": "Товар 2",
+            "price": 9200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 35,
+            "name": "Товар 3",
+            "price": 3090,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 36,
+            "name": "Товар 1",
+            "price": 1700,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 37,
+            "name": "Товар 2",
+            "price": 2300,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 38,
+            "name": "Товар 3",
+            "price": 3500,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 39,
+            "name": "Товар 1",
+            "price": 1600,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 40,
+            "name": "Товар 2",
+            "price": 2900,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 41,
+            "name": "Товар 3",
+            "price": 3100,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 42,
+            "name": "Товар 1",
+            "price": 1300,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 43,
+            "name": "Товар 2",
+            "price": 2300,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 44,
+            "name": "Товар 3",
+            "price": 3500,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 45,
+            "name": "Товар 1",
+            "price": 1100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 46,
+            "name": "Товар 2",
+            "price": 2300,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 47,
+            "name": "Товар 3",
+            "price": 700,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 48,
+            "name": "Товар 1",
+            "price": 1600,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 49,
+            "name": "Товар 2",
+            "price": 2100,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 50,
+            "name": "Товар 3",
+            "price": 3200,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 51,
+            "name": "Товар 1",
+            "price": 100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 52,
+            "name": "Товар 2",
+            "price": 200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 53,
+            "name": "Товар 3",
+            "price": 300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 54,
+            "name": "Товар 1",
+            "price": 1100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 55,
+            "name": "Товар 2",
+            "price": 2700,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 56,
+            "name": "Товар 3",
+            "price": 300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 57,
+            "name": "Товар 1",
+            "price": 1000,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 58,
+            "name": "Товар 2",
+            "price": 7200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 59,
+            "name": "Товар 3",
+            "price": 9300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 60,
+            "name": "Товар 1",
+            "price": 1600,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 61,
+            "name": "Товар 2",
+            "price": 9200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 62,
+            "name": "Товар 3",
+            "price": 3030,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 63,
+            "name": "Товар 1",
+            "price": 1300,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 64,
+            "name": "Товар 2",
+            "price": 2100,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 65,
+            "name": "Товар 3",
+            "price": 300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 66,
+            "name": "Товар 1",
+            "price": 100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 67,
+            "name": "Товар 2",
+            "price": 2400,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 68,
+            "name": "Товар 3",
+            "price": 300,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 69,
+            "name": "Товар 1",
+            "price": 6100,
+            "image": "https://s3-alpha-sig.figma.com/img/44df/01ce/8310f753a133a543ca0ecd89793ceb3e?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mT7odtN3XJ6FBKNXOBzqfQLZ3iyKk4~TIrVNiTvitjMVJDhT9fUffY9EViu~Cxnv9jFd4drrhtoa-7OG6mQXk5TkQd1odqt17cyI0wD2Pk5reihxmOK0bz3SqWiTUxDU3z008O0f7dNnxEFHmb9VgchSVMcD3lyKX8EvtqomHMym~9kPkU9oLTV6cgMstJcondrwNCGc6qlFl-Veuv5drQya5rRpXil4K9xg-5IFaE3JZ8YhwEa9d0DwUUjV5knM355ml2EaDdGtmOeSsb2Gzzl4Cdh5xDNGDAxNQ3G3GlVRGWVXGcbI55HUJx80ii-9cnSwpbRL3QCS11oI5GWGHA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 70,
+            "name": "Товар 2",
+            "price": 2200,
+            "image": "https://s3-alpha-sig.figma.com/img/566b/fb52/07206f2a89ee30db0c30f572f212141f?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LKkcyZe5SAOleGqVLCqkQ3TWPkfVaYoqWHniuCzVubda3tur~jiYhw~r-S~zROedJQn04DiT9guqc0tNZWfV2MidIXpV9SDMUCcf2Z8GrrtFi3AOUHXCdb8i5c3sXRfP5CrwMHwr29G82Wqb4AUAyQrgpIFZUiome1m3QUgjB0sTu4ooO8CdfUqI0iXb~hp2FboMkFqUbNZI8IIZ7rslzCD6E2gABi7XhDTfFwlntunUIGukFrXxHnECA2VMq0TvwBuEbD00ryPukJTavRUPMNftTcvxCQ7OBC3QmajmGceLW12zPTUj0Y~acAkd0SbJYi9ldqJNHgUmO4gh~kDNpw__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          },
+          {
+            "id": 71,
+            "name": "Товар 3",
+            "price": 3000,
+            "image": "https://s3-alpha-sig.figma.com/img/abb5/49b5/647ea7e334f537f97bf8fb0b94eb5e06?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LcZnP9~FiFY3~V8KttrItLA1rzxVpmUiPBDrGA6VEhVMyKB4jtfdDsHzjo1NFP32Ot2Hvba95rOgZxe9SyipCTBwljaiXMdaZ6brtTiL6MeX2meYiwuTW-lh1oSzB5Fz5N7SadQ~6oOIh23-IWblgdaqxAbPpbYM20cDzKn4dRHqFUhjLX9ZV9P-smBw4yZZ52QaETlp-ppBsuKFfZ5KOC6CD~7Q3ny~7xoDzA4IBv7oyi8KJyGW2e00nG8-4iwpRORtQks3jz2Qzv45Duxs634-Zut32w2fxkyAZIxJY6NCFtVyF~g8XmmINPPvE~q3AtdJE58BfbUwLUNyUTCldA__",
+            "description": "Вариативный замок Golden Soft для отеля",
+            "have": "Нет в наличии",
+            "sale": "SALE"
+          }
+    ]
+  }

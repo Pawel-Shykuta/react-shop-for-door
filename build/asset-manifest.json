@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-shop-for-door/static/css/main.18671a32.css",
+    "main.js": "/react-shop-for-door/static/js/main.76726c9a.js",
+    "static/media/WhyWee.jpg": "/react-shop-for-door/static/media/WhyWee.174fd0fbe34b12c34289.jpg",
+    "static/media/MissionOne.jpg": "/react-shop-for-door/static/media/MissionOne.7afee4365a4e34aec6a9.jpg",
+    "static/media/SellThree.jpg": "/react-shop-for-door/static/media/SellThree.e1d738eee0c20453ef25.jpg",
+    "static/media/SellOne.jpg": "/react-shop-for-door/static/media/SellOne.8ce14f7d19c01b2a20f8.jpg",
+    "static/media/SellTwo.jpg": "/react-shop-for-door/static/media/SellTwo.4fcf5637b978b8e14616.jpg",
+    "static/media/MissionTwo.png": "/react-shop-for-door/static/media/MissionTwo.ff81a313207575769639.png",
+    "static/media/ProjectsBig.png": "/react-shop-for-door/static/media/ProjectsBig.95dcceef871c674b9044.png",
+    "static/media/Popular-one.png": "/react-shop-for-door/static/media/Popular-one.f2f9f2ffac19bdb1f8b7.png",
+    "static/media/Cat-Item-three.png": "/react-shop-for-door/static/media/Cat-Item-three.fbd6e09f75ec606d15a4.png",
+    "static/media/Door-Handle.jpg": "/react-shop-for-door/static/media/Door-Handle.c90a256afddecd4a07f3.jpg",
+    "static/media/Popular-three.jpg": "/react-shop-for-door/static/media/Popular-three.c90a256afddecd4a07f3.jpg",
+    "static/media/Cat-item-two.png": "/react-shop-for-door/static/media/Cat-item-two.350f3d293f506d21b62d.png",
+    "static/media/Cat-item-fourth.png": "/react-shop-for-door/static/media/Cat-item-fourth.fb1de15252b8abeb54e1.png",
+    "static/media/Popular-fourth.jpg": "/react-shop-for-door/static/media/Popular-fourth.a50250d60d947d337edd.jpg",
+    "static/media/Cat-item-one.png": "/react-shop-for-door/static/media/Cat-item-one.a83617ed124765412618.png",
+    "static/media/Video.jpg": "/react-shop-for-door/static/media/Video.f6785cbb9e22c91798ea.jpg",
+    "static/media/Populer-two.jpg": "/react-shop-for-door/static/media/Populer-two.c6cef1bba7fae3a34369.jpg",
+    "index.html": "/react-shop-for-door/index.html",
+    "main.18671a32.css.map": "/react-shop-for-door/static/css/main.18671a32.css.map",
+    "main.76726c9a.js.map": "/react-shop-for-door/static/js/main.76726c9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18671a32.css",
+    "static/js/main.76726c9a.js"
+  ]
+}
